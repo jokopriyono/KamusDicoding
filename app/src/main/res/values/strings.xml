@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kamus Dicoding</string>
+    <string name="eng_to_idn">English to Indonesia</string>
+    <string name="idn_to_eng">Indonesia to English</string>
+    <string name="hint_eng">Find here..</string>
+    <string name="hint_idn">Cari di sini..</string>
+</resources>
